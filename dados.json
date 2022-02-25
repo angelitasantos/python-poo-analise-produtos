@@ -1,0 +1,102 @@
+[
+    {
+        "id": "ca728758",
+        "preco": "22.51",
+        "categoria": "papelaria"
+    },
+    {
+        "id": "6dfb3cd6",
+        "preco": "83.69",
+        "categoria": "livros"
+    },
+    {
+        "id": "e84db4a9",
+        "preco": "27.15",
+        "categoria": "livros"
+    },
+    {
+        "id": "cdb8a274",
+        "preco": "29.52",
+        "categoria": "papelaria"
+    },
+    {
+        "id": "1464f8e7",
+        "preco": "61.74",
+        "categoria": "bazar"
+    },
+    {
+        "id": "b29423e3",
+        "preco": "77.59",
+        "categoria": "papelaria"
+    },
+    {
+        "id": "6f6113df",
+        "preco": "29.48",
+        "categoria": "bazar"
+    },
+    {
+        "id": "702af712",
+        "preco": "61.78",
+        "categoria": "livros"
+    },
+    {
+        "id": "8f0035cf",
+        "preco": "70.37",
+        "categoria": "papelaria"
+    },
+    {
+        "id": "77ad22b5",
+        "preco": "97.56",
+        "categoria": "bazar"
+    },
+    {
+        "id": "26cea180",
+        "preco": "51.55",
+        "categoria": "papelaria"
+    },
+    {
+        "id": "5dcb267d",
+        "preco": "71.99",
+        "categoria": "bazar"
+    },
+    {
+        "id": "55921514",
+        "preco": "73.55",
+        "categoria": "livros"
+    },
+    {
+        "id": "bbd0eaf5",
+        "preco": "88.74",
+        "categoria": "bazar"
+    },
+    {
+        "id": "34474372",
+        "preco": "68.63",
+        "categoria": "papelaria"
+    },
+    {
+        "id": "12cbce8d",
+        "preco": "12.49",
+        "categoria": "livros"
+    },
+    {
+        "id": "1a884edb",
+        "preco": "69.04",
+        "categoria": "bazar"
+    },
+    {
+        "id": "8851cfac",
+        "preco": "53.12",
+        "categoria": "bazar"
+    },
+    {
+        "id": "0d13bb18",
+        "preco": "80.26",
+        "categoria": "papelaria"
+    },
+    {
+        "id": "8b83bc97",
+        "preco": "60.92",
+        "categoria": "livros"
+    }
+]
