@@ -7,7 +7,7 @@
 
 #### Utilização dos conceitos:
  - variáveis
- - estruturas de controle
+ - estruturas de repetição
  - estruturas compostas
  - classe
  - objetos
